@@ -1,1 +1,2 @@
 # loca-boot-cli
+test
